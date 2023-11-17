@@ -1,5 +1,5 @@
 import unittest
-from main import validate_inputs  # replace 'your_module' with the actual module where your function is defined
+from main import validate_inputs 
 
 class TestStockAPIInputs(unittest.TestCase):
 
